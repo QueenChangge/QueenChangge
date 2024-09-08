@@ -1,4 +1,6 @@
-<h1 align="center">Hi there👋, I'm Citra Maharani</h1>
+## [![Citra Maharani's Banner](Citra-Maharani-banner.png)](https://github.com/queenchangge)
+
+
 <h3 align="center">I am a student of Information System who playing around with web for the last 1 year of focused. I have learnt Laravel and now days excited in React. I have so many interests❤️ including Machine Learning and UI/UX. Glad to find u here, let's be friend😇</h3>
 
 - 🌱 I’m currently learning **React, Python, Machine Learning , Deep Learning**
